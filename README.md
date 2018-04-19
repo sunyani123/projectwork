@@ -60,4 +60,4 @@ npm run build --report
 
 ### store存储数据用的，state是初始数据，mutations时会更新数据
 
-![Image text](https://github.com/sunyani123/workhelpproject/blob/master/%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B.png)
+![Image text](https://github.com/sunyani123/projectwork/blob/master/%E9%A1%B9%E7%9B%AE%E6%B5%81%E7%A8%8B.png)
